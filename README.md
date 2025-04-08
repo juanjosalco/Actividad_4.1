@@ -2,7 +2,6 @@
 
 ## Los resultados así como el código ejecutado se encuentra en el archivo analysis.ipynb, gracias!
 
-### Juan José Salazar Cortés
-### A01642126
+### Juan José Salazar Cortés - A01642126
 
 
